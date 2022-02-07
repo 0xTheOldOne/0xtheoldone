@@ -5,10 +5,13 @@
 </p>
 
 <h3>Software development</h3>
-<p>In real life, i work as a senior software developer/technical expert for a 5000+ employees group.</p>
-<p>I used to work with different companies in various domains such as industry, defense, railway and aeronautics.</p>
-<p>Also, i love to share my knowledge with other people, that's why I taught the basics of C# at the university, in parallel with my work, for a few years.</p>
-<p>Every piece of software that i build is coded with :heart:, i hope that you will like what's you'll find inside my public repositories, event if i don't have a lot of things to share for the moment since i started using GitHub not too long ago ago...</p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTheOldOne&layout=compact&langs_count=5&theme=github_dark" />
+<div>
+  <p>In real life, i work as a senior software developer/technical expert for a 5000+ employees group.</p>
+  <p>I used to work with different companies in various domains such as industry, defense, railway and aeronautics.</p>
+  <p>Also, i love to share my knowledge with other people, that's why I taught the basics of C# at the university, in parallel with my work, for a few years.</p>
+  <p>Every piece of software that i build is coded with :heart:, i hope that you will like what's you'll find inside my public repositories, event if i don't have a lot of things to share for the moment since i started using GitHub not too long ago ago...</p>
+</div>
 
 <div class="mb-5">&nbsp;</div>
 
@@ -25,13 +28,6 @@
     <li><a href="https://hathor.network/" target="_blank" rel="noopener noreferrer">Hathor Network</a> : A scalable and easy-to-use blockchain for digital assets.</li>
   </ul>
 </p>
-
-<div class="mb-5">&nbsp;</div>
-
-<h3>About my projects</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTheOldOne&layout=compact&langs_count=5&theme=github_dark" />
-</div>
 
 <!--
 **0xTheOldOne/0xtheoldone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
