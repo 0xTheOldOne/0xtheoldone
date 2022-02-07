@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTheOldOne&layout=compact&langs_count=5&theme=github_dark" />
 <div>
   <p>In real life, i work as a senior software developer/technical expert for a 5000+ employees group.</p>
-  <p>I used to work with different companies in various domains such as industry, defense, railway and aeronautics.</p>
+  <p>I used to work with different companies in various domains such as industry, defense, railway and aeronautics. Keep in mind that everything that you will see on this github is part of personal projects and nothing was used at work.</p>
   <p>Also, i love to share my knowledge with other people, that's why I taught the basics of C# at the university, in parallel with my work, for a few years.</p>
 </div>
 
