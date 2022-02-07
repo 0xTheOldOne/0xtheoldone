@@ -1,8 +1,4 @@
-<h1 >Hello there ! 👋</h1>
-<p>
-  <img align="right" src="https://komarev.com/ghpvc/?username=0xTheOldOne&label=Profile%20views&color=16c313&style=flat" />
-  Welcome on my personal GitHub !
-</p>
+<h1 align="center">Welcome on my personal GitHub ! 👋</h1>
 
 <h3>Software development</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xTheOldOne&layout=compact&langs_count=5&theme=github_dark" />
