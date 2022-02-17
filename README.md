@@ -26,7 +26,7 @@
 
 <div class="mb-5">&nbsp;</div>
 
-<p>Every piece of software that i build is coded with :heart:, i hope that you will like what's you'll find inside my public repositories, event if i don't have a lot of things to share for the moment since i started using GitHub not too long ago ago...</p>
+<p>Every piece of software that i build is coded with :heart:, i hope that you will like what you'll find inside my public repositories, event if i don't have a lot of things to share for the moment since i started using GitHub not too long ago ago...</p>
 
 <!--
 **0xTheOldOne/0xtheoldone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
