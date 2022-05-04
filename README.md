@@ -17,7 +17,6 @@
     <li><a href="https://strongblock.com/" target="_blank" rel="noopener noreferrer">StrongBlock</a> : The original blockchaine Nodes-As-A-Service company.
       <ul>
         <li>About StrongBlock, i made <a href="https://0xtheoldone.github.io/strong-rewards/" target="_blank" rel="noopener noreferrer">an app</a> that allows everyone that is taking part to the project or wants to be in to get some insights about rewards/earnings that this kind of nodes can provide while helping the blockchain echosystem to grow :rocket:</li>
-        <li><a href="https://github.com/StrongBlock/StrongChain/" target="_blank" rel="noopener noreferrer">Here</a>, you can read the StrongChain light paper</li>
       </ul>
     </li>
     <li><a href="https://www.telco.in/" target="_blank" rel="noopener noreferrer">Telcoin</a> : Telcoin provides low-cost, high-quality financial products for every mobile phone user in the world.</li>
