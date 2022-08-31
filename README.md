@@ -16,6 +16,7 @@
   <ul>
     <li><a href="https://strongblock.com/" target="_blank" rel="noopener noreferrer">StrongBlock</a> : The original blockchaine Nodes-As-A-Service company.
       <ul>
+        <li>⚖️ Disclaimer : <a href="https://news.bloomberglaw.com/litigation/strongblock-lured-bilked-crypto-investors-via-reward-suit-says" rel="noopener noreferrer" target="_blank">StrongBlock Lured, Bilked Crypto Investors Via Reward, Suit Says</a></li>
         <li>About StrongBlock, i made <a href="https://0xtheoldone.github.io/strong-rewards/" target="_blank" rel="noopener noreferrer">an app</a> that allows everyone that is taking part to the project or wants to be in to get some insights about rewards/earnings that this kind of nodes can provide while helping the blockchain echosystem to grow :rocket:</li>
       </ul>
     </li>
